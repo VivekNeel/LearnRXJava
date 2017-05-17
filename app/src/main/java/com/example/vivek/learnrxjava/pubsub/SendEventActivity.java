@@ -1,10 +1,12 @@
-package com.example.vivek.learnrxjava;
+package com.example.vivek.learnrxjava.pubsub;
 
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
+
+import com.example.vivek.learnrxjava.R;
 
 /**
  * Created by vivek on 17/05/17.

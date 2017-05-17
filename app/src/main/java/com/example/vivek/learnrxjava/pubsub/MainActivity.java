@@ -1,9 +1,11 @@
-package com.example.vivek.learnrxjava;
+package com.example.vivek.learnrxjava.pubsub;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
+
+import com.example.vivek.learnrxjava.R;
 
 import rx.functions.Action1;
 

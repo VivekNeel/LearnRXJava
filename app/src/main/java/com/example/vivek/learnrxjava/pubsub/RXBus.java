@@ -1,8 +1,7 @@
-package com.example.vivek.learnrxjava;
+package com.example.vivek.learnrxjava.pubsub;
 
 import rx.Observable;
 import rx.subjects.PublishSubject;
-import rx.subjects.Subject;
 
 /**
  * Created by vivek on 17/05/17.
